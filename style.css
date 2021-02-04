@@ -1,0 +1,32 @@
+body {
+    background-color: #d2f5e3;
+}
+
+h1, h2, h3{
+    color:#94b4a4;
+}
+
+hr{
+    border-style: dotted;
+    border-top-width: 5px;
+    border-color:#94b4a4;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width:0px;
+    width: 5%;
+}
+
+a {
+    margin: 10px 20px;
+    text-decoration: none;
+    padding-bottom: 40px;
+    color: #11999E;
+    font-family:'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+p{
+    color: #40514E;
+    font-weight: bold;
+    line-height: 2;
+}
